@@ -1,0 +1,3 @@
+﻿  PracticalWork11.cpp
+C:\C++\PracticalWork11\PracticalWork11\Entity.h(272,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  PracticalWork11.vcxproj -> C:\C++\PracticalWork11\x64\Debug\PracticalWork11.exe

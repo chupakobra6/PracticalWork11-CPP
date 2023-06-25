@@ -1,0 +1,4 @@
+﻿  Helpers.cpp
+C:\C++\PracticalWork11\Helpers\Helpers.cpp(46,33): warning C4101: e: неиспользованная локальная переменная
+C:\C++\PracticalWork11\Helpers\Helpers.cpp(68,33): warning C4101: e: неиспользованная локальная переменная
+  Helpers.vcxproj -> C:\C++\PracticalWork11\x64\Debug\Helpers.lib
